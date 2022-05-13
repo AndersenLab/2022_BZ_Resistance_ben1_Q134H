@@ -15,9 +15,9 @@ described high-throughput assay. Results show that this allele confers
 equal levels of resistance as the deletion of *ben-1*
 
 #Strains  
-N2- Susceptible laboratory strain
+N2- Susceptible laboratory strain  
 ECA882- Resistant edited strain with
-deletion of *ben-1* 
+deletion of *ben-1*   
 ECA3353 and ECA3358- Independent edits of Q134H in
 *ben-1* of the N2 background
 
