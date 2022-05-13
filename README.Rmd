@@ -1,6 +1,6 @@
 ---
 title: "2022_BZ_Resistance_ben1_Q134H"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
